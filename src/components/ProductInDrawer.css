@@ -1,0 +1,75 @@
+.product-in-drawer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.product-details {
+    display: flex;
+    align-items: center;
+}
+
+.product-info {
+    margin-right: 20px;
+}
+
+.product-name {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.product-price {
+    font-size: 14px;
+    color: #888;
+}
+
+.quantity-controls {
+    display: flex;
+    align-items: center;
+}
+
+.quantity {
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+.product-image {
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.product-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.quantity-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.quantity-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.MuiTooltip-tooltip {
+    background-color: white !important; /* שינוי צבע הרקע לאדום */
+    color: red !important; /* שינוי צבע הטקסט ללבן */
+    border: 1px solid red !important; /* הוספת מסגרת אדומה */
+    font-size: 12px !important; /* שינוי גודל הגופן אם נדרש */
+    padding: 6px !important; /* ריווח פנימי להודעה */
+    border-radius: 10px;
+}
+
+.MuiTooltip-arrow {
+    color: red !important; /* שינוי צבע החץ לאדום */
+}
+
+

@@ -1,0 +1,9 @@
+.my-custom-button {
+    background-color: rgb(104, 136, 223) !important; 
+    color: white !important; /* צבע טקסט לבן */
+    font-size: 18px !important; /* גודל פונט */
+    border-radius: 10px !important; /* פינות מעוגלות */
+    padding: 10px 20px !important; /* ריווח פנימי */
+  
+}
+/* rgb(240, 150, 33)  */
