@@ -11,7 +11,7 @@ import VisibilityOff from '@mui/icons-material/VisibilityOff';
 import { useState } from 'react';
 import Snackbar from '@mui/material/Snackbar';
 import Button from '@mui/material/Button';
-import "./login.scss";
+import "./Login.scss";
 
 const Login = () => {
     const navigate = useNavigate();
