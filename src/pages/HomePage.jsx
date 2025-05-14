@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
-import './homePage.css';
+import './HomePage.css';
 
 const HomeScreen = () => {
   const navigate = useNavigate();
