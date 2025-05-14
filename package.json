@@ -17,8 +17,8 @@
     "@mui/styled-engine-sc": "^6.4.3",
     "@reduxjs/toolkit": "^2.5.1",
     "axios": "^1.7.9",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-hook-form": "^7.54.2",
     "react-material-ui-carousel": "^3.4.2",
     "react-redux": "^9.2.0",
@@ -26,7 +26,8 @@
     "react-tooltip": "^5.28.0",
     "sass": "^1.85.1",
     "styled-components": "^6.1.15",
-    "sweetalert2": "^11.6.13"
+    "sweetalert2": "^11.6.13",
+    "swiper": "^11.2.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
